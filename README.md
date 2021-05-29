@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![DaPY15's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anupam-USP&show_icons=true)
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DaPY15&langs_count=5&theme=tokyonight)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SparshAgrawal1&langs_count=5&theme=tokyonight)]()
 
 - 🌱 I’m currently learning deep learning
 - 📫 Mail me at: ianupam1509@gmail.com
