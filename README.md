@@ -1,4 +1,6 @@
 ### Hi there 👋
+![ViewCount](https://views.whatilearened.today/views/github/Anupam-USP/Anupam-USP.svg?cache=remove) <br>
+
 ![DaPY15's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anupam-USP&show_icons=true)
 
 ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Anupam-USP&langs_count=5&theme=tokyonight)
