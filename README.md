@@ -35,11 +35,7 @@ Git • Linux • Power BI • Tabular Editor
 Stats
 
 ![ViewCount](https://views.whatilearened.today/views/github/Anupam-USP/Anupam-USP.svg?cache=remove) <br>
-
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Anupam-USP&langs_count=5&theme=tokyonight)
-
-
----
+![Anupam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anupam-USP&show_icons=true&theme=radical)
 
 ## 🎯 What I’m Looking For  
 - SRE / Cloud Engineering roles  
